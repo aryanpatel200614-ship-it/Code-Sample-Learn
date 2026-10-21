@@ -16,9 +16,22 @@ SO MY CODE REMAINS SEPERATE ...
 
 
 
-DATE.. 21/10 
+DATE.. 21/10
 
-LETS FUCKING GO I DID MY FIRST COMMIT AND LEARNED HOW EVVERYTHINH IS WORKING 
+LETS FUCKING GO I DID MY FIRST COMMIT AND LEARNED HOW EVVERYTHINH IS WORKING
+
+
+
+
+
+\#BRANCHING PRACTICE 
+I hve created my first branch and how it will work i also leanrd that branch is nto sperate 
+
+project rather it is a new pointer ...
+
+
+
+branch does that it can develop features independently before merging them into main
 
 
 
