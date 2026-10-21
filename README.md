@@ -33,10 +33,19 @@ project rather it is a new pointer ...
 
 branch does that it can develop features independently before merging them into main
 
-#TASK
-THis is the task the chatgpt has given me how to use the branch and everything lets go mane GitHub almost avvd ma 
+\#TASK
+THis is the task the chatgpt has given me how to use the branch and everything lets go mane GitHub almost avvd ma
 
 manyuuu
+
+
+
+
+
+\#PULL REQUEST PRACTICE 
+OJGSDOJGNSNVXL;KN
+
+DKJSKJNSLETS GO PULL OUT GAME SHOULD BE STRONG...
 
 
 
